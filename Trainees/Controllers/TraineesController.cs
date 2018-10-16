@@ -25,7 +25,7 @@ namespace Trainees.Controllers
         //[HttpGet("getall",Name ="getall")]
         public IActionResult GetAll()
         {
-            var clients = _context.Clients.ToList().Where(item => item.IsDelete != "1").Take(10);
+            IEnumerable<Trainee> clients = _context.Paging(10);
             return Ok(clients.ToList());
         }
 
@@ -49,7 +49,8 @@ namespace Trainees.Controllers
                 t.IsDelete = "0";
                 _context.Clients.Add(t);
                 _context.SaveChanges(true);
-                var clients = _context.Clients.ToList().Where(item => item.IsDelete != "1").Take(10); 
+                //var clients = _context.Clients.ToList().Where(item => item.IsDelete != "1").Take(10); 
+                IEnumerable<Trainee> clients = _context.Paging(10);
                 return Ok(clients.ToList());
             }
         }
@@ -72,7 +73,8 @@ namespace Trainees.Controllers
             aTrainee.IsDelete = "1";
             _context.Clients.Update(aTrainee);
             _context.SaveChanges(true);
-            IEnumerable<Trainee> clients = _context.Clients.ToList().Where(item => item.IsDelete != "1").Take(10);
+            //IEnumerable<Trainee> clients = _context.Clients.ToList().Where(item => item.IsDelete != "1").Take(10);
+            IEnumerable<Trainee> clients = _context.Paging(10);
             return Ok(clients.ToList());
         }
 
