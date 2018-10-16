@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{9F86A063-AC94-4CCC-BA38-D43FA517CC31}|Default" VersionControlDisabled="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Trainees/Controllers/TraineesController.cs">
+    <Files>
+      <File FileName="Trainees/Data/TraineesContext.cs" Line="28" Column="11" />
+      <File FileName="Trainees/Startup.cs" Line="39" Column="1" />
+      <File FileName="Trainees/Program.cs" Line="32" Column="1" />
+      <File FileName="Trainees/Controllers/TraineesController.cs" Line="28" Column="88" />
+      <File FileName="Trainees/Data/Entities/Trainee.cs" Line="21" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../Trainees/Controllers/TraineesController.cs" line="67" offsetX="484" offsetY="959" expression="objID" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Trainees PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

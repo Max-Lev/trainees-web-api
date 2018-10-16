@@ -1,0 +1,14 @@
+/Users/MaxLevtov/Projects/web-api/Trainees/Trainees/bin/Debug/netcoreapp2.1/Trainees.deps.json
+/Users/MaxLevtov/Projects/web-api/Trainees/Trainees/bin/Debug/netcoreapp2.1/Trainees.runtimeconfig.json
+/Users/MaxLevtov/Projects/web-api/Trainees/Trainees/bin/Debug/netcoreapp2.1/Trainees.runtimeconfig.dev.json
+/Users/MaxLevtov/Projects/web-api/Trainees/Trainees/bin/Debug/netcoreapp2.1/Trainees.dll
+/Users/MaxLevtov/Projects/web-api/Trainees/Trainees/bin/Debug/netcoreapp2.1/Trainees.pdb
+/Users/MaxLevtov/Projects/web-api/Trainees/Trainees/obj/Debug/netcoreapp2.1/Trainees.csproj.CoreCompileInputs.cache
+/Users/MaxLevtov/Projects/web-api/Trainees/Trainees/obj/Debug/netcoreapp2.1/Trainees.RazorAssemblyInfo.cache
+/Users/MaxLevtov/Projects/web-api/Trainees/Trainees/obj/Debug/netcoreapp2.1/Trainees.RazorAssemblyInfo.cs
+/Users/MaxLevtov/Projects/web-api/Trainees/Trainees/obj/Debug/netcoreapp2.1/Trainees.AssemblyInfoInputs.cache
+/Users/MaxLevtov/Projects/web-api/Trainees/Trainees/obj/Debug/netcoreapp2.1/Trainees.AssemblyInfo.cs
+/Users/MaxLevtov/Projects/web-api/Trainees/Trainees/obj/Debug/netcoreapp2.1/Trainees.RazorTargetAssemblyInfo.cache
+/Users/MaxLevtov/Projects/web-api/Trainees/Trainees/obj/Debug/netcoreapp2.1/Trainees.dll
+/Users/MaxLevtov/Projects/web-api/Trainees/Trainees/obj/Debug/netcoreapp2.1/Trainees.pdb
+/Users/MaxLevtov/Projects/web-api/Trainees/Trainees/obj/Debug/netcoreapp2.1/Trainees.csprojAssemblyReference.cache
